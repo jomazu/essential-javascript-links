@@ -113,6 +113,9 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [ESNextBin](http://esnextb.in/) A babel powered ES6+ browser bin with npm package support.
 * [Nitrous.IO](https://www.nitrous.io/) Online IDE in the cloud with collaboration & Docker containers
 * [Koding](https://koding.com) Online cloud development platform with video & audio collaboration
+* [updtr](https://github.com/peerigon/updtr) Keep your modules up to date
+* [Greenkeeper](https://greenkeeper.io/) Automatically opens PRs when your dependencies fall behind latest
+* [greenkeeper-keeper](https://github.com/kkemple/greenkeeper-keeper) Automatically merges Greenkeeper PRs when tests pass
 
 
 ## Building
