@@ -13,61 +13,61 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Required Reading (Online resources)
 
-* [Learn to Code: 13 Tips That Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f) #article
-* [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) One clear path to JavaScript mastery #article
-* [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) #article
-* [The Two Pillars of JavaScript Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) #article
-* [JavaScript Objects](https://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson #article
-* [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) A Babel config walkthrough #article
-* [Unapply attack](https://glebbahmutov.com/blog/unapply-attack/) Make your JS apps more secure by freezing builtins. #article
-* [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) Addy Osmani #article
+* [Learn to Code: 13 Tips That Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f) **#article**
+* [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) One clear path to JavaScript mastery **#article**
+* [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) **#article**
+* [The Two Pillars of JavaScript Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) **#article**
+* [JavaScript Objects](https://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson **#article**
+* [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) A Babel config walkthrough **#article**
+* [Unapply attack](https://glebbahmutov.com/blog/unapply-attack/) Make your JS apps more secure by freezing builtins. **#article**
+* [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) Addy Osmani **#article**
 * [Modularity](http://jlongster.com/Modularity) A pragmatic take on the tiny modules vs batteries included approach
-* [Computer Science in JavaScript](https://github.com/nzakas/computer-science-in-javascript) by Nicholas C. Zakas #article
-* [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd) The Way of the Functional Programmer #article
-* [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) Great read, even if you're not a React user. #article
-* [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)  #article
-* [The General Theory of Reactivity](https://github.com/kriskowal/gtor) What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible. #article
-* [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) by John Hughes, 1984 #paper #pdf
-* [ES6 Generators](https://davidwalsh.name/es6-generators) A series of blog posts by Kyle Simpson #article
-* [Typed JavaScript](http://www.2ality.com/2014/10/typed-javascript.html) Excellent post about the state of typed JavaScript by Axel Rauschmayer  #article
-* [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma  #article
-* [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) A guide for people building JavaScript client SDKs #article
-* [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/) In-depth perf case studies with Paul Irish #article
+* [Computer Science in JavaScript](https://github.com/nzakas/computer-science-in-javascript) by Nicholas C. Zakas **#article**
+* [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd) The Way of the Functional Programmer **#article**
+* [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) Great read, even if you're not a React user. **#article**
+* [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)  **#article**
+* [The General Theory of Reactivity](https://github.com/kriskowal/gtor) What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible. **#article**
+* [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) by John Hughes, 1984 **#paper** **#pdf**
+* [ES6 Generators](https://davidwalsh.name/es6-generators) A series of blog posts by Kyle Simpson **#article**
+* [Typed JavaScript](http://www.2ality.com/2014/10/typed-javascript.html) Excellent post about the state of typed JavaScript by Axel Rauschmayer  **#article**
+* [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma  **#article**
+* [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) A guide for people building JavaScript client SDKs **#article**
+* [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/) In-depth perf case studies with Paul Irish **#article**
 
 ## Required Viewing
-* [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635) by [Eric Elliott](https://twitter.com/_ericelliott) #talk
-* [Composition Over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA) by Mattias Petter Johansson #video
-* [Everything You Never Wanted to Know About JavaScript Numbers](https://www.youtube.com/watch?v=MqHDDtVYJRI) by Bartek Szopka #talk
-* [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A) [Jafar Husain](https://twitter.com/jhusain) #talk
-* [What is Reactive Programming?](https://www.youtube.com/watch?v=dwP1TNXE6fc) [Jafar Husain](https://twitter.com/jhusain) explains reactive programming #talk
-* [Introduction to React](https://www.youtube.com/watch?v=XxVg_s8xAms) by Jordan Walke #talk
-* [Introduction to Reactive Programming](https://egghead.io/series/introduction-to-reactive-programming) by André Staltz #video #course
-* [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) by [David Nolen](https://twitter.com/swannodette) #talk
-* [The Essence of FRP](http://begriffs.com/posts/2015-07-22-essence-of-frp.html) by Conal Elliott #talk
-* [JavaScript API Design Principles](https://www.youtube.com/watch?v=HYl7ReNB5TA) by Ariya Hidayat #talk
-* [Delivering the Goods](https://www.youtube.com/watch?v=R8W_6xWphtw) Paul Irish on one of the most important but overlooked topics in the development world today - page load times. #talk
-* [Supercharging Page Load](https://www.youtube.com/watch?v=d5_6yHixpsQ) by Jake Archibald #video
-* [Slay'n the Waste Monster](https://www.youtube.com/watch?v=RWmzxyMf2cE) by Colt McAnlis #talk
-* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey) #talk
-* [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) by Steven Wittens #talk
-* [The Pixel Factory](https://www.youtube.com/watch?v=4NkjLWAkYZ8) by Steven Wittens #talk
-* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) by Dan Abramov. Describes a functional approach to application state that all developers should be aware of. #course #video
-* [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) by André Staltz. #course #video
+* [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635) by [Eric Elliott](https://twitter.com/_ericelliott) **#talk**
+* [Composition Over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA) by Mattias Petter Johansson **#video**
+* [Everything You Never Wanted to Know About JavaScript Numbers](https://www.youtube.com/watch?v=MqHDDtVYJRI) by Bartek Szopka **#talk**
+* [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A) [Jafar Husain](https://twitter.com/jhusain) **#talk**
+* [What is Reactive Programming?](https://www.youtube.com/watch?v=dwP1TNXE6fc) [Jafar Husain](https://twitter.com/jhusain) explains reactive programming **#talk**
+* [Introduction to React](https://www.youtube.com/watch?v=XxVg_s8xAms) by Jordan Walke **#talk**
+* [Introduction to Reactive Programming](https://egghead.io/series/introduction-to-reactive-programming) by André Staltz **#video** **#course**
+* [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) by [David Nolen](https://twitter.com/swannodette) **#talk**
+* [The Essence of FRP](http://begriffs.com/posts/2015-07-22-essence-of-frp.html) by Conal Elliott **#talk**
+* [JavaScript API Design Principles](https://www.youtube.com/watch?v=HYl7ReNB5TA) by Ariya Hidayat **#talk**
+* [Delivering the Goods](https://www.youtube.com/watch?v=R8W_6xWphtw) Paul Irish on one of the most important but overlooked topics in the development world today - page load times. **#talk**
+* [Supercharging Page Load](https://www.youtube.com/watch?v=d5_6yHixpsQ) by Jake Archibald **#video**
+* [Slay'n the Waste Monster](https://www.youtube.com/watch?v=RWmzxyMf2cE) by Colt McAnlis **#talk**
+* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey) **#talk**
+* [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) by Steven Wittens **#talk**
+* [The Pixel Factory](https://www.youtube.com/watch?v=4NkjLWAkYZ8) by Steven Wittens **#talk**
+* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) by Dan Abramov. Describes a functional approach to application state that all developers should be aware of. **#course** **#video**
+* [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) by André Staltz. **#course** **#video**
 
 ## Exercises
 
-* [FreeCodeCamp](http://www.freecodecamp.com/) Learn to build apps & work on not-for-profit projects. #exercises
-* [LearnRx](http://reactivex.io/learnrx/) #exercises
-* [Javascripting](https://github.com/sethvincent/javascripting) Learn JavaScript by adventuring around in the terminal #exercises
-* [Functional Javascript](https://github.com/timoxley/functional-javascript-workshop) A functional javascript workshop #exercises
-* [BrowserifyAdventure](https://github.com/substack/browserify-adventure) Learn browserify with this educational adventure #exercises
-* [Count Up to Version 6 of JavaScript!](https://github.com/domenic/count-to-6) An intro to some ES6 features via a set of self-guided workshops #exercises
-* [ESNext Generation Interactive Workshop](https://github.com/jesstelford/esnext-generation) Learn ES6's Iterators & Generators in this interactive Javascript workshop #exercises
-* [Learn ES6 Generators](https://github.com/isRuslan/learn-generators) JavaScript ES6 generators workshopper #exercises
-* [Tower of babel](https://github.com/yosuke-furukawa/tower-of-babel) Tower of babel is tour of babel #exercises
-* [Promises](https://github.com/stevekane/promise-it-wont-hurt) A Workshopper module that teaches you to use promises in javascript #exercises
-* [WebGL](https://github.com/stackgl/webgl-workshop) Learn the WebGL API #exercises
-* [WebGL with three.js](https://github.com/alexmackey/IntroToWebGLWithThreeJS) An introduction to WebGL with three.js #exercises
+* [FreeCodeCamp](http://www.freecodecamp.com/) Learn to build apps & work on not-for-profit projects. **#exercises**
+* [LearnRx](http://reactivex.io/learnrx/) **#exercises**
+* [Javascripting](https://github.com/sethvincent/javascripting) Learn JavaScript by adventuring around in the terminal **#exercises**
+* [Functional Javascript](https://github.com/timoxley/functional-javascript-workshop) A functional javascript workshop **#exercises**
+* [BrowserifyAdventure](https://github.com/substack/browserify-adventure) Learn browserify with this educational adventure **#exercises**
+* [Count Up to Version 6 of JavaScript!](https://github.com/domenic/count-to-6) An intro to some ES6 features via a set of self-guided workshops **#exercises**
+* [ESNext Generation Interactive Workshop](https://github.com/jesstelford/esnext-generation) Learn ES6's Iterators & Generators in this interactive Javascript workshop **#exercises**
+* [Learn ES6 Generators](https://github.com/isRuslan/learn-generators) JavaScript ES6 generators workshopper **#exercises**
+* [Tower of babel](https://github.com/yosuke-furukawa/tower-of-babel) Tower of babel is tour of babel **#exercises**
+* [Promises](https://github.com/stevekane/promise-it-wont-hurt) A Workshopper module that teaches you to use promises in javascript **#exercises**
+* [WebGL](https://github.com/stackgl/webgl-workshop) Learn the WebGL API **#exercises**
+* [WebGL with three.js](https://github.com/alexmackey/IntroToWebGLWithThreeJS) An introduction to WebGL with three.js **#exercises**
 
 ## Spec
 
@@ -87,8 +87,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) by Nicholas C. Zakas
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) by Reginald Braithwaite
 * [Node.js in Action](http://www.manning.com/cantelon/) by Mike Cantelon, Marc Harter, T.J. Holowaychuk and Nathan Rajlich
-* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) by Ilya Grigorik #book
-* ["Seven Languages in Seven Weeks"](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks) Learn different ways of solving problems and you'll deepen your understanding of JavaScript. #book
+* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) by Ilya Grigorik **#book**
+* ["Seven Languages in Seven Weeks"](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks) Learn different ways of solving problems and you'll deepen your understanding of JavaScript. **#book**
 * [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](http://www.amazon.com/gp/product/0670899763?ie=UTF8&camp=213733&creative=393177&creativeASIN=0670899763&linkCode=shr&tag=ericleads-20&linkId=NDUXYQOCMPC47SQI) by M. Mitchell Waldrop
 * [WebGL Fundamentals](http://webglfundamentals.org/) by Greggman - An interactive online book about graphics programming.
 
@@ -132,13 +132,13 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JSCS](http://jscs.info/) Linter with a focus on automatic fixes and built-in style guide presets.
 * [babel-eslint](https://github.com/babel/babel-eslint) Allow ES6 features to pass ESLint.
 * [eslint-plugin-no-class](https://github.com/emmenko/eslint-plugin-no-class) Forbid the ES6 `class` keyword. [Why?](https://github.com/eslint/eslint/pull/2096#issuecomment-83044888)
-* [ESLint no-inferred-methodname](https://github.com/johnstonbl01/eslint-no-inferred-method-name) A custom rule for a common problem. #code
+* [ESLint no-inferred-methodname](https://github.com/johnstonbl01/eslint-no-inferred-method-name) A custom rule for a common problem. **#code**
 * [Istanbul](https://github.com/gotwarlost/istanbul) Code coverage reporting
 * [nyc](https://github.com/bcoe/nyc) a code coverage tool built on istanbul that works for applications that spawn subprocesses.
 * [tape](https://github.com/substack/tape) Dead simple unit testing #code
-* [tap-browser-color](https://github.com/kirbysayshi/tap-browser-color) Prettify tap output in the browser. Works well with Tape. #code
-* [faucet](https://github.com/substack/faucet) Prettify tap output in the console. Plays well with Tape. #code
-* [Supertest](https://github.com/visionmedia/supertest) The best way to test HTTP endpoints. #code
+* [tap-browser-color](https://github.com/kirbysayshi/tap-browser-color) Prettify tap output in the browser. Works well with Tape. **#code**
+* [faucet](https://github.com/substack/faucet) Prettify tap output in the console. Plays well with Tape. **#code**
+* [Supertest](https://github.com/visionmedia/supertest) The best way to test HTTP endpoints. **#code**
 
 
 ### Transpilers
@@ -156,95 +156,95 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Libraries
 
-* [stats.js.org](http://stats.js.org/) JavaScript repos ranked by popularity. #code
-* [es5-shim](https://github.com/es-shims/es5-shim) Stable, production ready. #code
-* [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7. #code
-* [es7-shim](https://www.npmjs.com/package/es7-shim) Experimental. Use with caution. #code
-* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills. #code
-* [Deep Freeze](https://github.com/substack/deep-freeze) Deep freeze objects. #code
-* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) You'll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com) #code
-* [UpUp](https://www.talater.com/upup/) Make sure your site works even when your user is offline. #code
-* [cf-package](https://github.com/cloverfield-tools/cf-package) A Cloverfield scaffold that generates new modules (npm packages) complete with npm scripts and useful boilerplate. #code
-* [The Universal React Boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate) Write apps using the same code for both the client and the server using Node, Express, and Browserify. #code
-* [NodeGoat](https://github.com/OWASP/NodeGoat) Identify security vulnerabilities in your Node apps. #code
-* [lightning.js](https://github.com/olark/lightningjs) Async fetch load 3rd party JS & expose a promise API. #code
-* [native-promise-only](https://github.com/getify/native-promise-only) An ECMAScript standard promise polyfill by Kyle Simpson. #code
-* [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) A [WHATWG fetch](https://fetch.spec.whatwg.org/). standard polyfill. #code
-* [sseasy](https://github.com/heroku/sseasy) Server Sent Events for Node (HTML5 standard push notifications). #code
-* [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/) Required client-side patching to support Server Sent Events. #code
-* [TodoMVC](http://todomvc.com/) A showcase implementing many MV* libraries/frameworks using a standardized demo app (for easy comparisons). #code
-* [jQuery](http://jquery.com/) Most popular JS lib by a landslide. #code
-* [React](https://github.com/facebook/react) What do Facebook, Instagram, Netflix and PayPal have in common? React. #code
-* [Cycle.js](http://cycle.js.org) Like React, but more functional & reactive #code
-* [Lodash](https://lodash.com/) Like Underscore, but much faster, and featuring a more expressive API. Check out the Ramda-style [fp versions](https://github.com/lodash/lodash/tree/npm/fp) you can import from `lodash/fp` #code
-* [Ramda](http://ramdajs.com/) Like Lodash and Underscore, but with all functions automatically curried, and parameters arranged so that the data to be operated on is supplied last. #code
-* [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) #code
-* [Page.js](https://github.com/visionmedia/page.js) Tiny client-side router, inspired by Express. #code
-* [Moment](http://momentjs.com/docs/) A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates. #code
-* [express-request-language](https://github.com/tinganho/express-request-language) Best implementation I've seen for `Accept-Language` negatiation in Express. #code
-* [accept-language](https://github.com/tinganho/node-accept-language) If you don't use express, accept-language is the low-level lib that powers `express-request-language` for language matching & fallback. #code
-* [Globalize](https://github.com/jquery/globalize) i18n / translate your app for many languages and locations (locales). #code
-* [dotenv](https://github.com/motdotla/dotenv) Easily manage environment variables #code
-* [Leaflet](http://leafletjs.com/) Interactive map UIs made easy. #code
+* [stats.js.org](http://stats.js.org/) JavaScript repos ranked by popularity. **#code**
+* [es5-shim](https://github.com/es-shims/es5-shim) Stable, production ready. **#code**
+* [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7. **#code**
+* [es7-shim](https://www.npmjs.com/package/es7-shim) Experimental. Use with caution. **#code**
+* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills. **#code**
+* [Deep Freeze](https://github.com/substack/deep-freeze) Deep freeze objects. **#code**
+* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) You'll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com) **#code**
+* [UpUp](https://www.talater.com/upup/) Make sure your site works even when your user is offline. **#code**
+* [cf-package](https://github.com/cloverfield-tools/cf-package) A Cloverfield scaffold that generates new modules (npm packages) complete with npm scripts and useful boilerplate. **#code**
+* [The Universal React Boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate) Write apps using the same code for both the client and the server using Node, Express, and Browserify. **#code**
+* [NodeGoat](https://github.com/OWASP/NodeGoat) Identify security vulnerabilities in your Node apps. **#code**
+* [lightning.js](https://github.com/olark/lightningjs) Async fetch load 3rd party JS & expose a promise API. **#code**
+* [native-promise-only](https://github.com/getify/native-promise-only) An ECMAScript standard promise polyfill by Kyle Simpson. **#code**
+* [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) A [WHATWG fetch](https://fetch.spec.whatwg.org/). standard polyfill. **#code**
+* [sseasy](https://github.com/heroku/sseasy) Server Sent Events for Node (HTML5 standard push notifications). **#code**
+* [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/) Required client-side patching to support Server Sent Events. **#code**
+* [TodoMVC](http://todomvc.com/) A showcase implementing many MV* libraries/frameworks using a standardized demo app (for easy comparisons). **#code**
+* [jQuery](http://jquery.com/) Most popular JS lib by a landslide. **#code**
+* [React](https://github.com/facebook/react) What do Facebook, Instagram, Netflix and PayPal have in common? React. **#code**
+* [Cycle.js](http://cycle.js.org) Like React, but more functional & reactive **#code**
+* [Lodash](https://lodash.com/) Like Underscore, but much faster, and featuring a more expressive API. Check out the Ramda-style [fp versions](https://github.com/lodash/lodash/tree/npm/fp) you can import from `lodash/fp` **#code**
+* [Ramda](http://ramdajs.com/) Like Lodash and Underscore, but with all functions automatically curried, and parameters arranged so that the data to be operated on is supplied last. **#code**
+* [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) **#code**
+* [Page.js](https://github.com/visionmedia/page.js) Tiny client-side router, inspired by Express. **#code**
+* [Moment](http://momentjs.com/docs/) A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates. **#code**
+* [express-request-language](https://github.com/tinganho/express-request-language) Best implementation I've seen for `Accept-Language` negatiation in Express. **#code**
+* [accept-language](https://github.com/tinganho/node-accept-language) If you don't use express, accept-language is the low-level lib that powers `express-request-language` for language matching & fallback. **#code**
+* [Globalize](https://github.com/jquery/globalize) i18n / translate your app for many languages and locations (locales). **#code**
+* [dotenv](https://github.com/motdotla/dotenv) Easily manage environment variables **#code**
+* [Leaflet](http://leafletjs.com/) Interactive map UIs made easy. **#code**
 * [Lusca](https://github.com/krakenjs/lusca) Secure your Express application. By the Kraken team at PayPal.
-* [Express](http://expressjs.com/) The most popular framework for Node. #code
-* [Stampit](https://github.com/stampit-org/stampit) Create objects from reusable, composable behaviors. Prototypal inheritance with stamps. #code
-* [Credential](https://github.com/ericelliott/credential) If you write Node apps with password logins, you need Credential. #code
-* [Countly](http://github.com/countly/countly-server) Open source mobile & web analytics and marketing platform. #code
-* [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) Easy JSON Web Token auth. #code
-* [cuid](https://github.com/ericelliott/cuid) GUIDs are broken - use cuid, instead. #code
-* [velocity](http://julian.com/research/velocity/) & [Velocity Motion Designer (VMD)](http://julian.com/research/velocity/#vmd) UI animation library. #code
-* [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid)  A fast [json-schema](http://json-schema.org/) validator. #code
-* [is-express-schema-valid](https://github.com/voronianski/is-express-schema-valid) is-my-json-valid as Express middleware for `req.body` `req.query` and `req.params`. #code
-* [inquirer.js](https://github.com/SBoudrias/Inquirer.js) Great library for building CLI tools. #code
-* [rimraf](https://github.com/isaacs/rimraf) `rm -rf` util for nodejs. Great for npm scripts. #code
-* [Wemo.io Open Source VR Tools](https://wemo.io/os) #code
+* [Express](http://expressjs.com/) The most popular framework for Node. **#code**
+* [Stampit](https://github.com/stampit-org/stampit) Create objects from reusable, composable behaviors. Prototypal inheritance with stamps. **#code**
+* [Credential](https://github.com/ericelliott/credential) If you write Node apps with password logins, you need Credential. **#code**
+* [Countly](http://github.com/countly/countly-server) Open source mobile & web analytics and marketing platform. **#code**
+* [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) Easy JSON Web Token auth. **#code**
+* [cuid](https://github.com/ericelliott/cuid) GUIDs are broken - use cuid, instead. **#code**
+* [velocity](http://julian.com/research/velocity/) & [Velocity Motion Designer (VMD)](http://julian.com/research/velocity/#vmd) UI animation library. **#code**
+* [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid)  A fast [json-schema](http://json-schema.org/) validator. **#code**
+* [is-express-schema-valid](https://github.com/voronianski/is-express-schema-valid) is-my-json-valid as Express middleware for `req.body` `req.query` and `req.params`. **#code**
+* [inquirer.js](https://github.com/SBoudrias/Inquirer.js) Great library for building CLI tools. **#code**
+* [rimraf](https://github.com/isaacs/rimraf) `rm -rf` util for nodejs. Great for npm scripts. **#code**
+* [Wemo.io Open Source VR Tools](https://wemo.io/os) **#code**
 * [IoT.js](http://samsung.github.io/iotjs/) An Internet of Things JavaScript platform.
 
 
 ## React
 
-* [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms) #video
+* [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms) **#video**
 * [React blog](http://facebook.github.io/react/blog/) Official React blog
-* [JSX Looks Like an Abomination but it's Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918) My take on JSX #article
-* [React Pure Component Starter](https://github.com/ericelliott/react-pure-component-starter) Learn React pure components #code
-* [Baby's First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd) Build your first working React component #article
-* [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb) #video
-* [react-stamp](https://github.com/stampit-org/react-stamp) Composable, classless React components made easy #code
-* [react-engine](https://github.com/paypal/react-engine) PayPal's isomorphic React view engine for Express or Kraken #code
-* [Stilr](https://github.com/kodyl/stilr) Simplify JS component styles #code
-* [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) #code
-* [React Hot Loader](https://gaearon.github.io/react-hot-loader/) Live patching for Webpack #code
-* [livereactload](https://github.com/milankinen/livereactload) Live patching for Browserify #code
-* [MobX](https://github.com/mobxjs/mobx) Simple, scalable state management with TFRP. #code
-* [Redux](https://github.com/rackt/redux) Predictable state container (store) for JavaScript apps #code
+* [JSX Looks Like an Abomination but it's Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918) My take on JSX **#article**
+* [React Pure Component Starter](https://github.com/ericelliott/react-pure-component-starter) Learn React pure components **#code**
+* [Baby's First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd) Build your first working React component **#article**
+* [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb) **#video**
+* [react-stamp](https://github.com/stampit-org/react-stamp) Composable, classless React components made easy **#code**
+* [react-engine](https://github.com/paypal/react-engine) PayPal's isomorphic React view engine for Express or Kraken **#code**
+* [Stilr](https://github.com/kodyl/stilr) Simplify JS component styles **#code**
+* [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) **#code**
+* [React Hot Loader](https://gaearon.github.io/react-hot-loader/) Live patching for Webpack **#code**
+* [livereactload](https://github.com/milankinen/livereactload) Live patching for Browserify **#code**
+* [MobX](https://github.com/mobxjs/mobx) Simple, scalable state management with TFRP. **#code**
+* [Redux](https://github.com/rackt/redux) Predictable state container (store) for JavaScript apps **#code**
 * [Redux Devtools](https://github.com/gaearon/redux-devtools) DevTools for Redux with hot reloading, timetravel debugging, and customizable UI
-* [Cerebral](https://github.com/cerebral/cerebral) An immutable store for global app state #code
-* [react-native](https://github.com/facebook/react-native) React for mobile devices #code
-* [Elemental-UI](http://elemental-ui.com/) Modular UI component library for React. #code
+* [Cerebral](https://github.com/cerebral/cerebral) An immutable store for global app state **#code**
+* [react-native](https://github.com/facebook/react-native) React for mobile devices **#code**
+* [Elemental-UI](http://elemental-ui.com/) Modular UI component library for React. **#code**
 * [VelocityReact](https://github.com/twitter-fabric/velocity-react) Great animations for React #code
-* [react-art](https://github.com/reactjs/react-art) React for SVG or canvas #code
-* [react-canvas](https://github.com/Flipboard/react-canvas) React for canvas #code
-* [react-three](https://github.com/Izzimach/react-three) Three.js rendering for React #code
+* [react-art](https://github.com/reactjs/react-art) React for SVG or canvas **#code**
+* [react-canvas](https://github.com/Flipboard/react-canvas) React for canvas **#code**
+* [react-three](https://github.com/Izzimach/react-three) Three.js rendering for React **#code**
 * [react.rocks](https://react.rocks/) Pinterest-style directory of online demos with available code
-* [TodoMVC in React](http://todomvc.com/examples/react/) #example
-* [JSX Specification](http://facebook.github.io/jsx/) #documentation
+* [TodoMVC in React](http://todomvc.com/examples/react/) **#example**
+* [JSX Specification](http://facebook.github.io/jsx/) **#documentation**
 
 ## Relay & GraphQL
 
-* [Relay](https://github.com/facebook/relay) Build data-driven React applications. #code
+* [Relay](https://github.com/facebook/relay) Build data-driven React applications. **#code**
 * [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU) Relay & GraphQL Described
-* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html) #video
-* [Let's Learn GraphQL](https://learngraphql.com/) #course
-* [GraphQL at Facebook](https://www.youtube.com/watch?v=etax3aEe2dA) #talk
-* [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html) #article
-* [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) #article
-* [Mutations in Relay (slideshow)](https://speakerdeck.com/laneyk/mutations-in-relay) Slideshow + speaker notes #slideshow
-* [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9) by Christoph Pojer. #article
-* [Getting started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/) #article
+* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html) *#video**
+* [Let's Learn GraphQL](https://learngraphql.com/) **#course**
+* [GraphQL at Facebook](https://www.youtube.com/watch?v=etax3aEe2dA) **#talk**
+* [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html) **#article**
+* [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) **#article**
+* [Mutations in Relay (slideshow)](https://speakerdeck.com/laneyk/mutations-in-relay) Slideshow + speaker notes **#slideshow**
+* [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9) by Christoph Pojer. **#article**
+* [Getting started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/) **#article**
 * [GraphQL Specification](https://github.com/facebook/graphql)
-* [GraphQL Reference Implementation](https://github.com/graphql/graphql-js) #code
-* [graphql-server](https://github.com/RisingStack/graphql-server) A GraphQL server implementation with Mongo / Mongoose #code
+* [GraphQL Reference Implementation](https://github.com/graphql/graphql-js) **#code**
+* [graphql-server](https://github.com/RisingStack/graphql-server) A GraphQL server implementation with Mongo / Mongoose **#code**
 
 
 ## Web Components
