@@ -81,7 +81,7 @@ It's possible for a link to belong to multiple types of content. But please keep
 ### Just tags
 While some hashtags are reserved for level or type of content, you can (and probably should) add a few more meaningful tags to make it easier for visitors to filter our collection. Your tags may denote platforms like **#node** or **#react**, domains like **#frontend** or **#backend**, concerns like **#testing** or **#building** etc.
 
-Multy-word tags should be delimited by underscores, like **#javascript_environments** or **#hackable_hardware**.
+Multi-word tags should be delimited by underscores, like **#javascript_environments** or **#hackable_hardware**.
 
 ## Example Learning Track
 
