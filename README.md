@@ -298,6 +298,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [Node Weekly](http://nodeweekly.com/)
 * [HTML5 Weekly](http://html5weekly.com/)
+* [ESNext News](http://esnextnews.com/)
 * [EchoJS](http://www.echojs.com/)
 * [JavaScript Live](https://jslive.com/)
 * [JavaScript.com News](https://www.javascript.com/news)
