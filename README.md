@@ -94,6 +94,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [nvm](https://github.com/creationix/nvm) First install this...
 * [Node](http://nodejs.org/) Then install Node (with nvm). You'll need this even if you're a front-end dev.
 * [npm](https://www.npmjs.com/) Install lots of other things with npm. **The package manager for JavaScript.** Comes with Node.
+* [Yarn](https://yarnpkg.com/) "Fast, Reliable, and Secure Dependency Management". May speed up your installs and make them more deterministic than using npm. Uses the npm registry.
 * [Atom](https://atom.io/) Nice, hackable editor by GitHub.
 * [Tern](http://ternjs.net/) Static analysis in JavaScript
 * [Slate](https://github.com/tripit/slate) Generate beautiful API docs for your apps
