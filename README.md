@@ -192,6 +192,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) **#code**
 * [Redux](https://github.com/rackt/redux) Predictable state container (store) for JavaScript apps **#code**
 * [Redux Devtools](https://github.com/gaearon/redux-devtools) DevTools for Redux with hot reloading, timetravel debugging, and customizable UI
+* [redux-saga](https://github.com/yelouafi/redux-saga) A synchronous-style side-effect library for Redux. **#code**
 * [MobX](https://github.com/mobxjs/mobx) Simple, scalable state management with TFRP. **#code**
 * [react-native](https://github.com/facebook/react-native) React for mobile devices **#code**
 * [Elemental-UI](http://elemental-ui.com/) Modular UI component library for React. **#code**
