@@ -334,13 +334,13 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [David Nolen](https://twitter.com/swannodette) Great functional programming content
 * [EchoJS](https://twitter.com/echojs) News and links
 * [Eric Elliott](https://twitter.com/_ericelliott) That's me. O'Reilly author. JavaScript architect. JS Instructor.
-* [Go JS!](https://twitter.com/JS_Cheerleader) Mover & shaker, JavaScript evangelist, documentary film maker, tech agent & JavaScript community champion
 * [Jafar Husain](https://twitter.com/jhusain) Great talks on RxJS, ES next, etc...
 * [James Halliday](https://twitter.com/substack) aka Substack - author of ~one million~ Node modules you probably use.
 * [James Long](https://twitter.com/jlongster) CSP, functional programming advocate, Mozilla developer
 * [JavaScript Daily](https://twitter.com/JavaScriptDaily) News and links
 * [JavaScriptKicks](https://twitter.com/JavaScriptKicks) News and links
 * [Jordan Harband](https://twitter.com/ljharb) Keeping us ahead of the JS curve
+* [JS Cheerleader](https://twitter.com/JS_Cheerleader) Mover & shaker, JavaScript evangelist, documentary film maker, tech agent & JavaScript community champion
 * [Marijn Haverbeke](https://twitter.com/marijnjh) Author, "Eloquent JavaScript"
 * [Nicholas C. Zakas](https://twitter.com/slicknet) Author, speaker
 * [Nick Morgan](https://twitter.com/skilldrick) Author, "JavaScript for Kids"
