@@ -147,6 +147,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 * [stats.js.org](http://stats.js.org/) JavaScript repos ranked by popularity. **#code**
 * [Express](http://expressjs.com/) The most popular framework for Node. **#code**
+* [Next.js](https://zeit.co/blog/next) Painless universal JavaScript framework built on React + Node. **#code**
 * [Lodash](https://lodash.com/) Like Underscore, but much faster, and featuring a more expressive API. Check out the Ramda-style [fp versions](https://github.com/lodash/lodash/tree/npm/fp) you can import from `lodash/fp` **#code**
 * [cuid](https://github.com/ericelliott/cuid) GUIDs are broken - use cuid, instead. **#code**
 * [React](https://github.com/facebook/react) What do Facebook, Instagram, Netflix and PayPal have in common? React. **#code**
@@ -154,7 +155,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Moment](http://momentjs.com/docs/) A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates. **#code**
 * [https://qa.polyfill.io/v2/docs/](https://qa.polyfill.io/v2/docs/) Pollyfill browsers automatically. **#code**
 * [UpUp](https://www.talater.com/upup/) Make sure your site works even when your user is offline. **#code**
-* [The Universal React Boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate) Write apps using the same code for both the client and the server using Node, Express, and Browserify. **#code**
+* [Immutable.js](https://facebook.github.io/immutable-js/) A library for creating immutable collections. **#code**
 * [NodeGoat](https://github.com/OWASP/NodeGoat) Identify security vulnerabilities in your Node apps. **#code**
 * [lightning.js](https://github.com/olark/lightningjs) Async fetch load 3rd party JS & expose a promise API. **#code**
 * [Deep Freeze](https://github.com/substack/deep-freeze) Deep freeze objects. **#code**
